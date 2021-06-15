@@ -1,9 +1,9 @@
-var a=require('readline-sync')
+var x=require('readline-sync')
 
-var b=a.question('enter a')
-var c=a.question('')
+var a=x.question('enter a')
+var b=x.question('')
 
-if(b>c)
+if(a>b)
 {console.log('a')}
 else
  {console.log('b')}
