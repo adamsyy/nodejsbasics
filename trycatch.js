@@ -2,7 +2,7 @@ try{
     console.log('heee')
 
     if(2>1){
-        throw "oioi"
+        throw ""
     }
 }
 catch(e){
