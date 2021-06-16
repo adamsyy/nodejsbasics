@@ -16,5 +16,5 @@ function hello(){
 
 hello()
 
-//let has scope only inside block
+//let has scope only inside blocks
 //var has scope just outside also
